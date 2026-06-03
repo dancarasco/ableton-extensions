@@ -3,6 +3,8 @@
 KeyPulse is an Ableton Live extension for tagging audio clips with detected key
 and BPM.
 
+![KeyPulse detecting BPM in Ableton Live](assets/screenshot.png)
+
 It adds right-click actions for audio clips:
 
 - **Detect Key**
@@ -13,8 +15,6 @@ Results are appended to the clip name, for example:
 ```text
 Audio [Key: G major] [BPM: 98]
 ```
-
-![KeyPulse detecting BPM in Ableton Live](assets/screenshot.png)
 
 ## Package
 
