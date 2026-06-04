@@ -21,12 +21,12 @@ Audio [Key: G major] [BPM: 98]
 Download or install:
 
 ```text
-KeyPulse-0.1.0.ablx
+KeyPulse-0.1.1.ablx
 ```
 
 ## Installing
 
-Install `KeyPulse-0.1.0.ablx` through Ableton Live's Extensions workflow.
+Install `KeyPulse-0.1.1.ablx` through Ableton Live's Extensions workflow.
 
 If the actions do not appear immediately, restart Live or reload the Extension
 Host.
