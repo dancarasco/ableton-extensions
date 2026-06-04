@@ -10,7 +10,8 @@ notes.
 
 | Extension | Description | Package                                             |
 | --- | --- |-----------------------------------------------------|
-| [KeyPulse](KeyPulse/README.md) | Detects key and BPM for Ableton audio clips and tags the clip name. | [KeyPulse-0.1.1.ablx](KeyPulse/KeyPulse-0.1.1.ablx) |
+| [KeyPulse](KeyPulse/README.md) | Detects key and BPM for Ableton audio clips and tags the clip name. | [Download](KeyPulse/) |
+| [SplitScope](SplitScope/README.md) | True mid-side extraction with a live spectrogram editor. | [Download](SplitScope/) |
 
 ## Requirements
 
