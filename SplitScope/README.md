@@ -14,7 +14,10 @@ can write the extracted result back into the Live project.
 
 ## Package
 
-Download or install the `.ablx` archive in this folder.
+Current release: **v0.1.1**
+
+Download or install
+[SplitScope-0.1.1.ablx](SplitScope-0.1.1.ablx).
 
 ## Installing
 
