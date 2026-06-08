@@ -18,7 +18,10 @@ Audio [Key: G major] [BPM: 98]
 
 ## Package
 
-Download or install the `.ablx` archive in this folder.
+Current release: **v0.1.1**
+
+Download or install
+[KeyPulse-0.1.1.ablx](https://github.com/dancarasco/ableton-extensions/releases/download/KeyPulse-0.1.1/KeyPulse-0.1.1.ablx).
 
 ## Installing
 

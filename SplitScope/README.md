@@ -17,7 +17,7 @@ can write the extracted result back into the Live project.
 Current release: **v0.1.1**
 
 Download or install
-[SplitScope-0.1.1.ablx](SplitScope-0.1.1.ablx).
+[SplitScope-0.1.1.ablx](https://github.com/dancarasco/ableton-extensions/releases/download/SplitScope-0.1.1/SplitScope-0.1.1.ablx).
 
 ## Installing
 
